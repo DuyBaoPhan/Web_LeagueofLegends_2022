@@ -1,0 +1,69 @@
+﻿.navbar {
+    border-radius: 0px;
+    margin-bottom:0px;
+}
+#b1 .container-fluid img{
+    max-height:83%;
+}
+#b1 .container-fluid .navbar-brand{
+    padding:5px 15px;
+}
+#b1 .container-fluid a {
+    border: none;
+    color: white;
+}
+#b1 .container-fluid a:hover{
+    color:red;
+}
+#b2 .c1{
+    margin-bottom:25px;
+    padding-top:20px;
+}
+#b2 .c2 {
+    padding-bottom: 20px;
+}
+#b2 .c1 h1 {
+    font-weight: bold;
+    text-align: center;
+    color: #fff;
+    margin-top: 0px;
+}
+#b2 .c2 .form-group .form-control {
+    margin: 0 auto;
+}
+#b2 .c2 input {
+    height: 59px;
+    width: 620px;
+    border-radius: 30px;
+    font-size: 20px;
+    border: 1px solid #fff;
+}
+#b3{
+    margin-top:70px;
+}
+#b3 .container .top .row .col-md-3 {
+    background-color: #cd3242;
+    margin-right:20px;
+    width:22%;
+    border-radius:10px;
+    height:240px;
+    color:#fff;
+    font-weight:700;
+    font-size:28px;
+    padding:140px 60px 15px 15px;
+}   
+#b3 .container .bot .row{
+    margin-right:20px;
+} 
+#b3 .container .bot .row .col-md-6{
+    background-color: #cd3242;
+    margin-top:50px;
+    border-radius:10px;
+    width:47%;
+    height:50px;
+    color:#fff;
+    text-align:center;
+    line-height:50px;
+    font-size:20px;
+    font-weight:700;    
+}

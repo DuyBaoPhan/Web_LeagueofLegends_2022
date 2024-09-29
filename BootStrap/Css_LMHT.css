@@ -1,0 +1,132 @@
+﻿#menu {
+    background-color: #101215;
+    border: none;
+}
+#menu .navbar{
+    text-align:center;
+    margin-left: 150px;
+    margin-bottom:0px;
+
+}
+#menu .container-fluid{
+    background-color: #101215;
+}
+#menu .navbar ul li a{
+    font-weight:600;
+    font-size:18px;
+    padding:20px 40px;
+    color:#d2b48c;
+}
+#quangCao{
+    width:100%;
+    height:500px;
+    margin:0;
+    padding:0;
+}
+
+.carousel-indicators {
+    bottom: -50px;
+}
+.carousel-indicators li{
+    background-color:#559392;
+}
+.carousel-indicators .active{
+    background-color:#f3af23;
+}
+.swiper-pagination-bullet{
+
+}
+#quangCao .container {
+    padding-top: 60px;
+}
+#event{
+    margin-bottom:100px;
+}
+#event .container{
+    width:87%;
+}
+#event img {
+    width: 97%;
+    margin-top: 100px;
+    margin-bottom: 15px
+}
+#event .row a{
+    text-decoration:none;
+    color:black;
+}
+#event h2 {
+    font-size: 20px;
+    font-weight: 600;
+    padding: 5px 0px;
+    margin-top: 10px;
+}
+.grey{
+    color: #808080;
+}
+.title {
+    color: #0ac6e4;
+    font-weight: 600;
+    padding-top:10px;
+}
+#event .row a p{
+    margin-top:20px;
+}
+#event a.nut, .cuoiTrang a.nut {
+    text-decoration: none;
+    color: #000;
+    font-size: 17px;
+    line-height: 40px;
+}
+.nut {
+    display: block;
+    background-color: #0bc6e4;
+    width: 150px;
+    height: 40px;
+    background-image: url(Images/NenNut.png);
+    text-align: center;
+    margin:0 auto;
+    margin-top:30px;
+}
+#footer .container-fluid {
+    background-color: #0f141a;
+    text-align: center;
+    padding: 50px 0;
+}
+#footer .container-fluid p{
+    color:white;
+    margin-bottom:0px;
+}
+#footer .container-fluid img{
+    margin-bottom:40px;
+}
+.cuoiTrang {
+    display: flex;
+    margin-right: 570px;
+    height: 50px;
+}
+.cuoiTrang img{
+    height:50px;
+    width:110px;
+    margin-top:0px;
+    margin-left:-7px;
+}
+.cuoiTrang a.nut{
+    margin-right:50px; 
+    width:180px;
+    height:50px;
+    line-height:50px;
+    color:white;
+    font-weight:bold;
+    margin-top:0px;
+}
+.mangXH a {
+    font-weight: 600;
+    font-family: footericon;
+}
+.mangXH .navbar-inverse .navbar-nav > li > a {
+    color: #ffffff;
+}
+#footer .mangXH .container-fluid {
+    padding: 0px 0px 0px 550px;
+}
+
